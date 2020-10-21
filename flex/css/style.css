@@ -1,0 +1,39 @@
+.wrapper {
+    width: 700px;
+    height: 500px;
+    padding: 5px;
+    background-color: #000;
+}
+
+.box__inner {
+    display: flex;
+}
+
+.box {
+    height: 300px;
+}
+
+.orange {
+    height: 100px;
+    background-color: #ff8c00;
+}
+
+.red {
+    width: 140px;
+    background-color: #ff0000;
+}
+
+.green {
+    width: 220px;
+    background-color: #008000;   
+}
+
+.blue {
+    width: 250px;
+    background-color: #1e90ff;
+}
+
+.black {
+    width: 89px;
+    background-color: #222020;
+}
